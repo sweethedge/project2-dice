@@ -10,9 +10,9 @@ document.querySelector("#asdf").innerHTML = " 주사위값 = " + (i);
 let dicecheck = document.querySelector(('input[name="jusawi"]:checked')).value;
 
 if(dicecheck == i) {
-  document.querySelector('#ox').innerHTML = "`<img src=./images/O.png></img>`"
+  document.querySelector('#ox').innerHTML = "<img src=./images/O.png></img>"
 } else {
-  document.querySelector('#ox').innerHTML = "`<img src=./images/X.png></img>`"
+  document.querySelector('#ox').innerHTML = "<img src=./images/X.png></img>"
 }
 
 const rt = form1.num.value
