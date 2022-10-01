@@ -1,3 +1,5 @@
+https://sweethedge.github.io/project2-dice/
+
 # JS
 0926
 script: 
