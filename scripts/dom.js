@@ -15,7 +15,5 @@ if(dicecheck == i) {
   document.querySelector('#ox').innerHTML = "<img src=./images/x.png></img>"
 }
 
-const rt = form1.num.value
-
 } 
 
